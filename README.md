@@ -1,3 +1,3 @@
 ### Courses-Certifications
 
-This repository contains all the  certifications of the courses I have done.
+This repository contains the certifications of the courses I have done.
